@@ -1,0 +1,11 @@
+# IDE / Editor
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+.gitattributes
