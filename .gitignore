@@ -1,11 +1,16 @@
-# IDE / Editor
+﻿# IDE / Editor files
 .vscode/
 
-# Python
+# Python cache files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Git
+# Git attributes file
 .gitattributes
+
+# Optional but recommended
+.DS_Store
+*.env
+.ipynb_checkpoints/
